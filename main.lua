@@ -237,7 +237,6 @@ function love.touchmoved(id, x, y, dx, dy, pressure)
 			_G[gamestate].mousemoved(x, y, dx, dy)
 		end
 	end
-    g3d.camera.firstPersonLook(dx,dy)
 end
 
 function love.touchreleased(id, x, y, dx, dy, pressure)
