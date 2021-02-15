@@ -1,0 +1,2 @@
+start cmd.exe /k "copy /b ""C:\Users\SE\Desktop\_EXE\love.exe""+""C:\Users\SE\Desktop\_EXE\hhhs.love"" ""C:\Users\SE\Desktop\_EXE\hhhs.exe"""
+start C:\Users\SE\Programs\resource_hacker\ResourceHacker.exe "C:\Users\SE\Desktop\_EXE\hhhs.exe"
